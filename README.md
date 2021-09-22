@@ -10,3 +10,4 @@ Modules needed:
 Caveats: 
 - Emails from non-SSL-certified emails (eg., my myles@5050creative.com account) don't deliver or get sorted into the reciever's trash
 - Emails sent from the program get grouped together in other email clients (eg., Apple Mail), it'll be one email chain of all the sent emails
+- Can't read emails off of a CSV sheet- all emails and college names need to be entered in one at a time
