@@ -12,4 +12,4 @@ Caveats:
 - Emails sent from the program get grouped together in other email clients (eg., Apple Mail), it'll be one email chain of all the sent emails
 - Can't read emails off of a CSV sheet- all emails and college names need to be entered in one at a time
 
-Very little commit history for the files because there was sensitive information in the commit history, which had to be deleted for the final verison.
+Very little commit history for the files because there was sensitive information in the commit history, was deleted for the final verison.
